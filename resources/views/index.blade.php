@@ -4,7 +4,7 @@
         <meta charset="utf-8">
         <meta http-equiv="X-UA-Compatible" content="IE=edge">
         <meta name="viewport" content="width=device-width, initial-scale=1">
-        <title>Laravel CRUD With Multiple Image Upload</title>
+        <title>Laravel Activity</title>
 
       <!-- Bootstrap CSS -->
      <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.0-beta2/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-BmbxuPwQa2lc/FVzBcNJ7UAyJxM6wuqIj61tLrc4wSX0szH/Ev+nYRRuWlolflfl" crossorigin="anonymous">
@@ -16,7 +16,7 @@
 
         <div class="container" style="margin-top: 50px;">
 
-            <h3 class="text-center text-danger"><b>Laravel CRUD With Multiple Image Upload</b> </h3>
+            <h3 class="text-center text-danger"><b>BOOK LIST</b> </h3>
             <a href="/create" class="btn btn-outline-success">Add New Post</a>
 
             <table class="table">
